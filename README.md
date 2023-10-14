@@ -5,7 +5,7 @@
 
 ## Description
 
-A Java application that generates tailor-made home-insurance quotes and could be adapted for use with business products as well.
+A Java application (using Java FX) that generates tailor-made home-insurance quotes and could be adapted for use with business products as well.
 
 ## Usage
 
