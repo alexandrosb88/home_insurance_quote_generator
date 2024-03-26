@@ -1,5 +1,3 @@
-package Home_Insurance_Quote_Generator;
-
 /*
 
 <--- Home Insurance Quote Generator --->
@@ -20,7 +18,9 @@ Any contract clause that may not be initially included can be manually appended.
 
 Finally, the quote is delivered in XLS format.
 
- */
+*/
+
+package Home_Insurance_Quote_Generator;
 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
