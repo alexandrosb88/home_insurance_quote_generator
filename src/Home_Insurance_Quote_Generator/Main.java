@@ -1,4 +1,3 @@
-package Home_Insurance_Quote_Generator;
 
 /*
 
@@ -6,21 +5,9 @@ package Home_Insurance_Quote_Generator;
 Copyright (c) 2023 alexandrosb88
 
 
-This application is designed for the purpose of generating quotes for a tailor-made home insurance product.
-
-The user is required to input the insured value for building and/or content.
-
-Additionally, the user has the option to select a plan in which coverage components are automatically selected, while
-retaining the ability to check/uncheck any specific coverage item individually.
-
-The calculation of the limit of several covers is automated based on pre-configured rules.
-
-Furthermore, the user has the capability to review and adjust contract clauses as needed.
-Any contract clause that may not be initially included can be manually appended.
-
-Finally, the quote is delivered in XLS format.
-
  */
+
+package Home_Insurance_Quote_Generator;
 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
@@ -81,10 +68,13 @@ public class Main extends Application {
 
         scrollPane.setContent(grid);
 
+        // Icon
+        Image icon = new Image("C:\\Users\\Sonic\\IdeaProjects\\home_insurance_quote_generator\\src\\Home_Insurance_Quote_Generator\\home_icon.png");
+        primaryStage.getIcons().add(icon);
 
         // Header
         ImageView imageView = new ImageView();
-        Image image = new Image("C:\\Users\\Sonic\\IdeaProjects\\home_insurance_quote_generator\\src\\Home_Insurance_Quote_Generator\\app_logo.png"); // Replace with the actual path to your image
+        Image image = new Image("C:\\Users\\Sonic\\IdeaProjects\\home_insurance_quote_generator\\src\\Home_Insurance_Quote_Generator\\app_logo.png");
         imageView.setImage(image);
         GridPane.setConstraints(imageView, 0, 0);
         GridPane.setColumnSpan(imageView, 6);
@@ -576,7 +566,7 @@ public class Main extends Application {
         GridPane.setConstraints(box22, 0, 42);
         GridPane.setColumnSpan(box22, 6);
         GridPane.setConstraints(box23, 0, 43);
-        GridPane.setColumnSpan(box23, 6);
+        GridPane.setColumnSpan(box23, 8);
 
 
         // Special Agreements

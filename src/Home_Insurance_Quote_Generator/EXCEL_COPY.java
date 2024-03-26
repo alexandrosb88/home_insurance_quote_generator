@@ -685,12 +685,12 @@ public class EXCEL_COPY {
 
 
             // Short circuit
-
-            int b12newValue = convertInputValueToInt(b12Value);
-            int c12newValue = convertInputValueToInt(c12Value);
-            int s12newValue = convertInputValueToInt(s12Value);
             
             if (box12.isSelected()) {
+
+                int b12newValue = convertInputValueToInt(b12Value);
+                int c12newValue = convertInputValueToInt(c12Value);
+                int s12newValue = convertInputValueToInt(s12Value);
 
                 int newRow = rowMapping.get(36);
                 Row row37 = outputSheet.getRow(newRow);
@@ -709,10 +709,10 @@ public class EXCEL_COPY {
 
 
             // Third-party liability
-            
-            int s13newValue = convertInputValueToInt(s13Value);
 
             if (box13.isSelected()) {
+
+                int s13newValue = convertInputValueToInt(s13Value);
                 
                 int newRow = rowMapping.get(37);
                 Row row38 = outputSheet.getRow(newRow);
@@ -732,9 +732,9 @@ public class EXCEL_COPY {
 
             // Legal expenses
 
-            int s14newValue = convertInputValueToInt(s14Value);
-
             if (box14.isSelected()) {
+
+                int s14newValue = convertInputValueToInt(s14Value);
 
                 int newRow = rowMapping.get(38);
                 Row row39 = outputSheet.getRow(newRow);
@@ -753,9 +753,9 @@ public class EXCEL_COPY {
 
             // All risk
 
-            int s15newValue = convertInputValueToInt(s15Value);
-
             if (box15.isSelected()) {
+
+                int s15newValue = convertInputValueToInt(s15Value);
 
                 int newRow = rowMapping.get(39);
                 Row row40 = outputSheet.getRow(newRow);
