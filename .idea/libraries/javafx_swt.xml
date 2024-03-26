@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.web.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.swing.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.media.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.graphics.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.fxml.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.controls.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx.base.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/javafx-sdk-20.0.2/lib/javafx-swt.jar!/" />
+      <root url="jar://D:/Program Files/Java/logback/logback-classic-1.4.11.jar!/" />
+      <root url="jar://D:/Program Files/Java/logback/logback-core-1.4.11.jar!/" />
+      <root url="jar://D:/Program Files/Java/slf4j/slf4j-api-2.0.9.jar!/" />
+      <root url="jar://D:/Program Files/Java/log4j-core-2.21.1.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/barcodes-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/commons-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/forms-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/io-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/kernel-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/layout-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/pdfa-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/pdftest-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/sign-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/styled-xml-parser-7.2.5.jar!/" />
+      <root url="jar://D:/Program Files/Java/iText7-Core-7.2.5-only-jars/svg-7.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Program Files/JetBrains/javafx-sdk-20.0.2" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Program Files/JetBrains/javafx-sdk-20.0.2" recursive="false" type="SOURCES" />
+  </library>
+</component>
