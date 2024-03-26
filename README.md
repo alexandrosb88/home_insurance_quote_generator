@@ -10,8 +10,7 @@ A Java/Java FX application for generating tailor-made home-insurance quotes
 This is a sample of a real-world application. In order to showcase its funcionality, it is recreated for a ficticious insurance company "AB Insurance":
 
 
-home_insurance_quote_generator
-/main_screen.png
+main_screen.png
 
 
 ## Usage
