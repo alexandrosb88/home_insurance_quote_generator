@@ -2,6 +2,10 @@ package Home_Insurance_Quote_Generator;
 
 /*
 
+<--- Home Insurance Quote Generator --->
+Copyright (c) 2023 alexandrosb88
+
+
 This application is designed for the purpose of generating quotes for a tailor-made home insurance product.
 
 The user is required to input the insured value for building and/or content.
@@ -9,12 +13,12 @@ The user is required to input the insured value for building and/or content.
 Additionally, the user has the option to select a plan in which coverage components are automatically selected, while
 retaining the ability to check/uncheck any specific coverage item individually.
 
-The calculation of the limit of each cover is automated based on pre-configured rules.
+The calculation of the limit of several covers is automated based on pre-configured rules.
 
 Furthermore, the user has the capability to review and adjust contract clauses as needed.
 Any contract clause that may not be initially included can be manually appended.
 
-Finally, the quote is delivered in PDF format.
+Finally, the quote is delivered in XLS format.
 
  */
 
