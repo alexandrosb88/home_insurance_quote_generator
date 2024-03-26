@@ -12,6 +12,10 @@ This is a sample of a real-world application. In order to showcase its funcional
 
 main_screen.png
 
+(https://github.com/alexandrosb88/home_insurance_quote_generator/blob/0a4b9688e57da47598cdd5bbe6c1bbab757b31a8/main_screen.png)
+
+main_screen.png
+
 
 ## Usage
 
