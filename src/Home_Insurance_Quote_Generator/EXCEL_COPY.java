@@ -2,7 +2,7 @@ package Home_Insurance_Quote_Generator;
 
 /*
 
-The class contains several print statements intended for checking and debugging.
+This class contains several print statements intended for checking and debugging.
 Uncomment them to use.
 
  */
