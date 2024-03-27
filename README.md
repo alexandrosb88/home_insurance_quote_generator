@@ -5,16 +5,16 @@
 
 ## Description
 
-A Java/Java FX application for generating tailor-made home-insurance quotes
+> ### Java/Java FX application for generating tailor-made home-insurance quotes
+<br />
+<br />
 
-This is a sample of a real-world application. In order to showcase its funcionality, it is recreated for a ficticious insurance company "AB Insurance":
+This is a sample of a real-world application. In order to showcase its funcionality, it is recreated for a ficticious insurance company "AB Insurance".
 
+Main Screen:
 
-main_screen.png
+![main_screen](main_screen.png)
 
-(https://github.com/alexandrosb88/home_insurance_quote_generator/blob/0a4b9688e57da47598cdd5bbe6c1bbab757b31a8/main_screen.png)
-
-main_screen.png
 
 
 ## Usage
@@ -26,7 +26,9 @@ main_screen.png
 <summary>Entering Basic Info</summary>
 <br />
 
-Firstly, the user can provide the basic information that desires to be included in the quotation:
+Firstly, the user can provide the basic information that wishes to be included in the quotation:
+
+![info](info.png)
 
 </details>
 
