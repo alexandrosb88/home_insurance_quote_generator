@@ -39,6 +39,8 @@ Firstly, the user can provide the basic information that wishes to be included i
 
 The user has the option to select a plan in which coverage components are automatically selected, while retaining the ability to check/uncheck any specific coverage item or condition individually:
 
+![plan_selection](plan_selection.gif)
+
 
 > **Note** <br />
 This latter feature embodies the tailor-made element, as it allows users to personalize the coverage.
