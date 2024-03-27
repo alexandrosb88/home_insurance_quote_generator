@@ -9,7 +9,9 @@
 <br />
 <br />
 
-This is a sample of a real-world application. In order to showcase its funcionality, it is recreated for a ficticious insurance company "AB Insurance".
+This is a sample of a real-world application. 
+
+In order to showcase its funcionality, it is recreated for a ficticious insurance company "AB Insurance".
 
 Main Screen:
 
@@ -26,7 +28,7 @@ Main Screen:
 <summary>Entering Basic Info</summary>
 <br />
 
-Firstly, the user can provide the basic information that wishes to be included in the quotation:
+Firstly, the user provides basic information that wishes to be included in the quotation:
 
 ![info](info.png)
 
@@ -37,10 +39,15 @@ Firstly, the user can provide the basic information that wishes to be included i
 <summary>Selecting Covers/Deductibles</summary>
 <br />
 
-The user has the option to select a plan in which coverage components are automatically selected, while retaining the ability to check/uncheck any specific coverage item or condition individually:
+
+Plan selection is available wherein coverage components are automatically checked:
 
 ![plan_selection](plan_selection.gif)
 
+
+However, the user retains the ability to check/uncheck any specific coverage item or condition individually:
+
+![cover_selection](cover_selection.gif)
 
 > **Note** <br />
 This latter feature embodies the tailor-made element, as it allows users to personalize the coverage.
