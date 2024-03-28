@@ -22,7 +22,7 @@ Main Screen:
 ## Usage
 <br />
 
-> *click each section to expand*
+> *Click each section to expand*
 
 <br />
 
