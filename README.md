@@ -20,8 +20,11 @@ Main Screen:
 
 
 ## Usage
+<br />
 
+> *(click each section to expand)*
 
+<br />
 
 <details>
 
@@ -40,7 +43,7 @@ Firstly, the user provides basic information that wishes to be included in the q
 <br />
 
 
-Plan selection is available wherein coverage components are automatically checked:
+The initial option involves selecting a plan wherein predetermined coverage components are automatically checked:
 
 ![plan_selection](plan_selection.gif)
 
@@ -51,6 +54,11 @@ However, the user retains the ability to check/uncheck any specific coverage ite
 
 > **Note** <br />
 This latter feature embodies the tailor-made element, as it allows users to personalize the coverage.
+<br />
+
+When a cover is selected, the relative field appears in the deductible section. If a deductible box is checked, the text is open for editing:
+
+![deductibles](deductibles.gif)
 
 </details>
 
@@ -61,6 +69,8 @@ This latter feature embodies the tailor-made element, as it allows users to pers
 
 After selecting the desired covers, the user is then required to input the insured value for building and/or content. By pressing the "Submit" button, a set of pre-configured rules get into action and automatically calculate the limit of the selected covers:
 
+![submit_values](submit_values.gif)
+
 </details>
 
 <details>
@@ -69,6 +79,8 @@ After selecting the desired covers, the user is then required to input the insur
 <br />
 
 There is capability to review and adjust contract clauses as needed: 
+
+![clauses](clauses.gif)
 
 
 > **Note** <br />
@@ -84,7 +96,7 @@ Regarding General Exclusions, given their obligatory nature, the relative fields
 
 Any contract clause that may not be initially included can be manually appended:
 
-
+![add_condition](add_condition.gif)
 
 </details>
 
@@ -93,18 +105,29 @@ Any contract clause that may not be initially included can be manually appended:
 <summary>Generating the Quote</summary>
 <br />
 
-Finally, the quote is delivered in XLS format based on an xls source file:
+Finally, by pressing "Generate Quote" the quote is delivered in XLS format based on an xls source file:
 
+![generate](generate.gif)
 
+<br />
+
+![output1](output1.PNG)
+
+![output2](output2.PNG)
+
+<br />
 
 </details>
 
 <details>
 
-<summary>Automation is the key to success</summary>
+<summary>Automation is the key to success!</summary>
 <br />
 
-Apart from the main capabilities for covers, limits etc. other automations exist as well. For example, if the user selects "Secondary Residence" as residence type, since it is more vulnerable to theft, the field of theft measures is automatically checked and open for editing:
+Apart from the main capabilities for covers, limits etc. other automations can be implemented based on the user needs and underwriting rules.
+<br />
+<br />
+For example, if the user selects "Secondary Residence" as residence type, since it is more vulnerable to theft, the field of theft measures is automatically checked and open for editing.
 
 
 
@@ -113,7 +136,7 @@ Apart from the main capabilities for covers, limits etc. other automations exist
 ## Notes
 
 - The app could be adapted for use with business products as well
-- Other automations could be implemented based on the user's needs and underwriting rules
+- Libre office and xls files were employed
 - .ODS and .XLSX files could be utilized (minor changes in the code are necessary)
 
 
