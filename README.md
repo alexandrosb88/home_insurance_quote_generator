@@ -5,7 +5,7 @@
 
 ## Description
 
-> ### Java/Java FX application for generating tailor-made home-insurance quotes
+> ### Java/JavaFX application for generating tailor-made home-insurance quotes
 <br />
 <br />
 
