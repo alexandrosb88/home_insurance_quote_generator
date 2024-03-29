@@ -127,7 +127,7 @@ Finally, by pressing "Generate Quote" the quote is delivered in XLS format based
 Apart from the main capabilities for covers, limits etc. other automations can be implemented based on the user needs and underwriting rules.
 <br />
 <br />
-For example, if the user selects "Secondary Residence" as residence type, since it is more vulnerable to theft, the field of theft measures is automatically checked and open for editing.
+For example, if the user selects "Secondary Residence" as residence type, since it is more vulnerable to theft, the field of "theft measures" is automatically checked and open for editing.
 
 
 
