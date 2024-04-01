@@ -135,10 +135,10 @@ For example, if the user selects "Secondary Residence" as residence type, since 
 
 ## Notes
 
-- Not all the potential covers and conditions are included. This is just a sample
-- The app could be adapted for use with business products as well
-- Libre office and xls files were employed
-- .ODS and .XLSX files could be utilized (minor changes in the code are necessary)
+- Not all potential covers and conditions are included. This is just a sample
+- The app could be adapted for use with business or other products as well
+- Libre office and xls files were employed for the source/final file
+- .ODS and .XLSX files could be utilized as well (minor changes in the code are necessary)
 
 
 
