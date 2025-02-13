@@ -9,7 +9,11 @@
 <br />
 <br />
 
-This is a sample of an application that generates home-insurance quotes. Users input the required details, select their desired coverage options, and receive a quote in XLS format. It could be customized to serve either as an automated quote generator (for conventional risks) or as a special purpose tool for tailor-made quotes and unique risks. Both options are displayed in the usage section. 
+This is a sample of an application that generates home-insurance quotes. 
+
+Users input the required details, select their desired coverage options, and receive a quote in XLS format. 
+
+It could be customized to serve either as an automated quote generator (for conventional risks) or as a special purpose tool for tailor-made quotes and unique risks. Both options are displayed in the usage section. 
 
 In order to showcase its funcionality, it is created for a ficticious insurance company "AB Insurance".
 
